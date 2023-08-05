@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>0856fe13-04e4-4268-bf78-8bff21c4ace2</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>27EDE51723E1C790A79D85190C174C1F3550ED4CC0B6E8C1F9FA4A5FBEF959C3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>0856fe13-04e4-4268-bf78-8bff21c4ace2_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>0856fe13-04e4-4268-bf78-8bff21c4ace2_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-05T03:29:32.942</Modified>
+      <Modified>2023-08-05T21:19:53.846</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-05T03:29:32.522</Modified>
+      <Modified>2023-08-05T21:19:53.501</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectPanther.MAUI.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectPanther.MAUI.runtimeconfig.json">
       <PackagePath>ProjectPanther.MAUI.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-05T03:29:32.279</Modified>
+      <Modified>2023-08-05T04:09:31.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectPanther.MAUI.dll">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectPanther.MAUI.dll">
       <PackagePath>ProjectPanther.MAUI.dll</PackagePath>
-      <Modified>2023-08-05T03:29:29.871</Modified>
+      <Modified>2023-08-05T20:41:38.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProjectPanther.MAUI.exe</PackagePath>
-      <Modified>2023-08-05T03:29:30.501</Modified>
+      <Modified>2023-08-05T20:41:38.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nate\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -917,13 +917,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.Library\bin\Debug\net7.0\ProjectPanther.Library.dll">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\bin\Debug\net7.0\ProjectPanther.Library.dll">
       <PackagePath>ProjectPanther.Library.dll</PackagePath>
-      <Modified>2023-08-05T03:29:23.881</Modified>
+      <Modified>2023-08-05T21:19:48.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectPanther.MAUI.deps.json">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectPanther.MAUI.deps.json">
       <PackagePath>ProjectPanther.MAUI.deps.json</PackagePath>
-      <Modified>2023-08-05T03:29:32.784</Modified>
+      <Modified>2023-08-05T21:19:53.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -937,239 +937,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-04-25T20:26:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-08-05T02:44:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.244</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.406</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-08-05T02:44:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-08-05T02:44:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-08-05T03:28:44.447</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.696</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.733</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-08-05T03:28:44.523</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-08-05T03:28:44.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-08-05T03:28:44.541</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-08-05T03:28:44.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-08-05T03:28:44.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-08-05T03:28:44.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-08-05T03:28:44.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-08-05T03:28:44.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-08-05T03:28:44.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-08-05T03:28:44.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.464</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.468</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.471</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.480</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-08-05T03:28:44.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-08-05T03:28:44.486</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-08-05T03:28:44.500</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-08-05T03:28:44.489</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-08-05T03:28:44.493</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.580</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.544</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.553</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.632</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.648</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.661</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.688</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-08-05T03:28:44.501</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-08-05T03:28:44.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-08-05T03:28:44.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-08-05T03:28:44.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-08-05T03:28:44.578</Modified>
     </AppxPackagedFile>

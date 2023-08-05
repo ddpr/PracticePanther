@@ -42,9 +42,12 @@ namespace ProjectPanther.Library.Services
             };
         }
 
-        public Time AddOrUpdate(Time t)
+        public Time AddOrUpdate(Time t, Bill b,int projectId)
         {
             timesList.Add(t);
+            b.linkedProject = ProjectService.Current.Get(projectId);
+            BillService.Current.Add(b);
+            ProjectService.Current.AddTimeEntry(t, projectId);
             return t;
         }
         

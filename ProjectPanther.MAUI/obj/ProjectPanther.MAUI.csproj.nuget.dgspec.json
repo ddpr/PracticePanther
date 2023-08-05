@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj": {}
+    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
+    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
+        "projectUniqueName": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
         "projectName": "ProjectPanther.Library",
-        "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
+        "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
         "packagesPath": "C:\\Users\\Nate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\obj\\",
+        "outputPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj": {
+    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj",
+        "projectUniqueName": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj",
         "projectName": "ProjectPanther.MAUI",
-        "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj",
+        "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj",
         "packagesPath": "C:\\Users\\Nate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.MAUI\\obj\\",
+        "outputPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.MAUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -97,32 +97,32 @@
           "net7.0-android33.0": {
             "targetAlias": "net7.0-android",
             "projectReferences": {
-              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
-                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
+              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
+                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
               }
             }
           },
           "net7.0-ios16.1": {
             "targetAlias": "net7.0-ios",
             "projectReferences": {
-              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
-                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
+              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
+                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
               }
             }
           },
           "net7.0-maccatalyst16.1": {
             "targetAlias": "net7.0-maccatalyst",
             "projectReferences": {
-              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
-                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
+              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
+                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
               }
             }
           },
           "net7.0-windows10.0.19041": {
             "targetAlias": "net7.0-windows10.0.19041.0",
             "projectReferences": {
-              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
-                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
+              "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
+                "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj"
               }
             }
           }

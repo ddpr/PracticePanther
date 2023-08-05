@@ -1,4 +1,5 @@
 ﻿using PracticeManagement.Library.Models;
+using ProjectPanther.Library.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -95,6 +96,18 @@ namespace ProjectPanther.Library.Services
                 return emptyProjectsList;
             }
             return projectsList.Where(p => p.ClientId == clientId).ToList();
+        }
+
+
+        //Function that searches through the list of projects and finds the one with the provided 
+        //projectId and adds the passed Time entry to it's timeEntriesList
+        public void AddTimeEntry(Time t, int projectId)
+        {
+            var projectToAddEntry = projectsList.FirstOrDefault(p => p.Id == projectId);
+            if(projectToAddEntry != null)
+            {
+                projectToAddEntry.timeEntries.Add(t);
+            }
         }
     }
 }

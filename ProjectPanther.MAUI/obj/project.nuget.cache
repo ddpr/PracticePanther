@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EWQpRdxpEPAbVCXQ/AKwoGSPOR8JDmt+ROIp4WD8cHYmb9mV7JEVJGNWHGAghOnfJxLGSMGgaN59YgQodrNXpQ==",
+  "dgSpecHash": "XgA3Ydr9FWrtvs1VCs3YL5qfongyol/kT/HyMzydD64e+WG+LjSs25HVQwsZHkc3bjQ4ErwE2+RkskQJbwq8Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj",
+  "projectFilePath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.MAUI\\ProjectPanther.MAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nate\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Nate\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

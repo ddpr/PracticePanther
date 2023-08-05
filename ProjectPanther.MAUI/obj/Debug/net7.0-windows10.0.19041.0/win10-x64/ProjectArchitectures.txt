@@ -1,1 +1,1 @@
-C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\ProjectPanther.MAUI.csproj;x64
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.MAUI\ProjectPanther.MAUI.csproj;x64

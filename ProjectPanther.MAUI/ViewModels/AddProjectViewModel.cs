@@ -1,8 +1,10 @@
 ﻿using PracticeManagement.Library.Models;
 using PracticePanther.Library.Services;
+using ProjectPanther.Library.Models;
 using ProjectPanther.Library.Services;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Linq;
@@ -99,6 +101,15 @@ namespace ProjectPanther.MAUI.ViewModels
             set
             {
                 Model.IsActive = value;
+            }
+        }
+
+        public ObservableCollection<Bill> Bills
+        {
+            get
+            {
+                BillService.Current.Refresh();
+                return new ObservableCollection<Bill>(BillService.Current.Search(Model));
             }
         }
 

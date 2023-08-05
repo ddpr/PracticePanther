@@ -40,7 +40,7 @@
             <Label Text="Active Status:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
         </Grid>
         <Grid Grid.Row="6" Grid.Column="0">
-            <Label Text="Linked Client:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <Label Text="Bills:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
         </Grid>
 
         <Grid Grid.Row="1" Grid.Column="1">
@@ -59,6 +59,10 @@
             <Switch IsToggled="{Binding Path=IsActive}" HorizontalOptions="Fill"></Switch>
         </Grid>
         <Grid Grid.Row="6" Grid.Column="1">
+            <ListView 
+                ItemsSource="{Binding Path=Bills}"
+                >
+            </ListView>
         </Grid>
         <Grid Grid.Row="7" Grid.ColumnSpan="2">
             <Button Text="Submit" Clicked="SubmitClicked"></Button>

@@ -16,6 +16,7 @@ namespace ProjectPanther.MAUI.ViewModels
     public class TimeViewModel : INotifyPropertyChanged
     {
         public Time Model { get; set; }
+        public Bill billModel { get; set; }
         public TimeViewModel SelectedTime { get; set; }
         public string Query { get; set; }
 
@@ -99,6 +100,7 @@ namespace ProjectPanther.MAUI.ViewModels
         public TimeViewModel()
         {
             Model = new Time();
+            billModel = new Bill();
 
         }
 
@@ -132,7 +134,7 @@ namespace ProjectPanther.MAUI.ViewModels
         public void AddOrUpdate()
         {
 
-            TimeService.Current.AddOrUpdate(Model);
+            TimeService.Current.AddOrUpdate(Model, billModel, Model.ProjectId);
         }
 
 

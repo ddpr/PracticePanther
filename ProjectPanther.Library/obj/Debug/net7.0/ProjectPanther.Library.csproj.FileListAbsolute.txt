@@ -10,3 +10,15 @@ C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f
 C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.Library\obj\Debug\net7.0\refint\ProjectPanther.Library.dll
 C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.pdb
 C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.Library\obj\Debug\net7.0\ref\ProjectPanther.Library.dll
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\bin\Debug\net7.0\ProjectPanther.Library.deps.json
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\bin\Debug\net7.0\ProjectPanther.Library.dll
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\bin\Debug\net7.0\ProjectPanther.Library.pdb
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.csproj.AssemblyReference.cache
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.AssemblyInfoInputs.cache
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.AssemblyInfo.cs
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.dll
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\refint\ProjectPanther.Library.dll
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ProjectPanther.Library.pdb
+C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-222\ProjectPanther.Library\obj\Debug\net7.0\ref\ProjectPanther.Library.dll

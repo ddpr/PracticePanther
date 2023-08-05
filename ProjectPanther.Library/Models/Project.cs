@@ -1,4 +1,5 @@
 ﻿using PracticeManagement.Library.Models;
+using ProjectPanther.Library.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,7 @@ namespace PracticeManagement.Library.Models
         public int ClientId { get; set; }
         public Client? linkedClient { get; set; }
         public string ClientName { get; set; }
+        public List<Time> timeEntries = new List<Time> { };
 
         public Project()
         {

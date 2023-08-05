@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {}
+    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
+    "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
+        "projectUniqueName": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
         "projectName": "ProjectPanther.Library",
-        "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
+        "projectPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\ProjectPanther.Library.csproj",
         "packagesPath": "C:\\Users\\Nate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\\ProjectPanther.Library\\obj\\",
+        "outputPath": "C:\\Users\\Nate\\Desktop\\PracticeManagement.CLI-222\\PracticeManagement.CLI-222\\ProjectPanther.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

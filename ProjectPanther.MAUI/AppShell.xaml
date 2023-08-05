@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ProjectPanther.MAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ProjectPanther.MAUI"
+    xmlns:local2="clr-namespace:ProjectPanther.MAUI.Views"
+    Shell.FlyoutBehavior="Disabled">
+
+    <ShellContent
+        Title="ProjectPanther"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    
+    <ShellContent
+        Title="Client Management"
+        ContentTemplate="{DataTemplate local2:ClientView}"
+        Route="ClientView" />
+
+    <ShellContent
+        Title="Employee Management"
+        ContentTemplate="{DataTemplate local2:EmployeeView}"
+        Route="EmployeeView" />
+
+    <ShellContent
+        Title="Time Management"
+        ContentTemplate="{DataTemplate local2:TimeView}"
+        Route="TimeView" />
+
+    <ShellContent
+        Title="Add Client"
+        ContentTemplate="{DataTemplate local2:AddClientView}"
+        Route="AddClientView" />
+
+    <ShellContent
+        Title="Add Project"
+        ContentTemplate="{DataTemplate local2:AddProjectView}"
+        Route="AddProjectView" />
+
+    <ShellContent
+        Title="Add Employee"
+        ContentTemplate="{DataTemplate local2:AddEmployeeView}"
+        Route="AddEmployeeView" />
+
+    <ShellContent
+        Title="Add Time Entry"
+        ContentTemplate="{DataTemplate local2:AddTimeView}"
+        Route="AddTimeView" />
+
+
+</Shell>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProjectPanther.Library/1.0.0": {
+        "runtime": {
+          "ProjectPanther.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectPanther.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

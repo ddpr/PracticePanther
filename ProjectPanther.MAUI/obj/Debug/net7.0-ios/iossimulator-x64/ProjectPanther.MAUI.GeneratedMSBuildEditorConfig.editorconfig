@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectPanther.MAUI
+build_property.ProjectDir = C:\Users\Nate\Desktop\PracticeManagement.CLI-222\PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3\ProjectPanther.MAUI\
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/AddClientView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.AddClientView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddClientView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddClientView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/AddEmployeeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.AddEmployeeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddEmployeeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddEmployeeView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/AddProjectView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.AddProjectView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddProjectView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddProjectView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/AddTimeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.AddTimeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddTimeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddTimeView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/ClientView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.ClientView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ClientView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ClientView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/EmployeeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.EmployeeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EmployeeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EmployeeView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/ProjectView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.ProjectView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProjectView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProjectView.xaml
+
+[C:/Users/Nate/Desktop/PracticeManagement.CLI-222/PracticeManagement.CLI-e803088f35464e91f49ec82bf06da12ebc5d64c3/ProjectPanther.MAUI/Views/TimeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjectPanther.MAUI.Views.TimeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TimeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TimeView.xaml

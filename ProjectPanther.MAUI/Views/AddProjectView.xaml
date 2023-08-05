@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectPanther.MAUI.Views.AddProjectView"
+             Title="Project Tool"
+             NavigatedTo="ContentPage_NavigatedTo">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="7*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Button Text="Cancel" Clicked="ReturnClicked"></Button>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Label Text="Long Name:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="0">
+            <Label Text="Short Name:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="0">
+            <Label Text="Open Date:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="0">
+            <Label Text="Close Date:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </Grid>
+        <Grid Grid.Row="5" Grid.Column="0">
+            <Label Text="Active Status:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </Grid>
+        <Grid Grid.Row="6" Grid.Column="0">
+            <Label Text="Linked Client:" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Entry Text="{Binding Path=LongNameEntry}"></Entry>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1">
+            <Entry Text="{Binding Path=ShortNameEntry}"></Entry>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="1">
+            <DatePicker Date="{Binding Path=OpenDate}" HorizontalOptions="Fill"></DatePicker>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="1">
+            <DatePicker Date="{Binding Path=CloseDate}" HorizontalOptions="Fill"></DatePicker>
+        </Grid>
+        <Grid Grid.Row="5" Grid.Column="1">
+            <Switch IsToggled="{Binding Path=IsActive}" HorizontalOptions="Fill"></Switch>
+        </Grid>
+        <Grid Grid.Row="6" Grid.Column="1">
+        </Grid>
+        <Grid Grid.Row="7" Grid.ColumnSpan="2">
+            <Button Text="Submit" Clicked="SubmitClicked"></Button>
+        </Grid>
+
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectPanther.MAUI.Views.EmployeeView"
+             Title="EmployeeView"
+             NavigatedTo="ContentPage_NavigatedTo">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="8*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Grid Grid.Column="0">
+                <Button Text="Return" Clicked="ReturnClick"></Button>
+            </Grid>
+        </Grid>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Entry Grid.Column="0" Text="{Binding Path=Query}"></Entry>
+            <Button Grid.Column="1" Text="Search" Clicked="SearchClick"></Button>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <ListView 
+                ItemsSource="{Binding Path=Employees}"
+                SelectedItem="{Binding Path=SelectedEmployee, Mode=TwoWay}"
+                >
+            </ListView>
+        </Grid>
+
+        <!--Grid Hosting CRUD Buttons -->
+        <Grid Grid.Row="3">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Text="Add" Grid.Column="0" Clicked="AddClick"></Button>
+                <Button Text="Edit" Grid.Column="1" Clicked="EditClick"></Button>
+                <Button Text="Delete" Grid.Column="2" Clicked="DeleteClick"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+
+</ContentPage>
